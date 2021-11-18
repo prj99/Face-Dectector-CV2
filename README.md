@@ -1,2 +1,2 @@
 # Face-Dectector-CV2
-It'
+It's a python developed live face detector
