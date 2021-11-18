@@ -1,5 +1,12 @@
 # Face-Dectector-CV2
 It's a python developed live face detector
+
+
+
+
+
+
+
 Basic specs needs to run this software :
 1.Webcam or any secondry cam
 2.Modules:- opencv2
